@@ -83,7 +83,7 @@ The database includes the following key entities:
 
 Here is the Entity Relationship Diagram (ERD) for the database design:
 
-![ERD Diagram](ERD Diagram.png)
+![ERD Diagram](images/ERD Diagram.png)
 
 ## Setup Instructions
 

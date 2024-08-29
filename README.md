@@ -83,13 +83,7 @@ The database includes the following key entities:
 
 Here is the Entity Relationship Diagram (ERD) for the database design:
 
-![ERD Diagram](ERD Diagram.png)
+![EDR Diagram](EDR%20Diagram.png)
 
 
-## Setup Instructions
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/YourUsername/Coffee-Shop-Database-Design.git
-   cd Coffee-Shop-Database-Design

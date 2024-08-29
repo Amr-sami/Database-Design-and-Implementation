@@ -79,6 +79,12 @@ The database includes the following key entities:
 - **Sales Detail to Product**: Each sales detail record is associated with a specific product.
 - **Product to Product Type**: Each product belongs to a specific product type.
 
+## ERD Diagram
+
+Here is the Entity Relationship Diagram (ERD) for the database design:
+
+![ERD Diagram](ERD Diagram.png)
+
 ## Setup Instructions
 
 1. **Clone the Repository**
